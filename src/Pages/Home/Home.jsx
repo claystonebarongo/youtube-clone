@@ -5,6 +5,7 @@ import Feed from '../../components/Feed/Feed'
 
 
 const Home = ({ sidebar }) => {
+
   return (
     <>
       <Sidebar sidebar={sidebar} />
