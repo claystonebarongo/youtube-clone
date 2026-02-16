@@ -48,6 +48,7 @@ const Feed = () => {
 
 
             <div className='card'>
+
                 <img src={thumbnail4} alt="" />
                 <h2>Best channel to learn coding that help you to be a web developer</h2>
                 <h3>C.B mogonchi</h3>
