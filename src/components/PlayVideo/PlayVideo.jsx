@@ -105,7 +105,6 @@ const PlayVideo = () => {
                         <div className="comment-action">
                             <img src={like} alt="" />
                             <span>244</span>
-
                             <img src={dislike} alt="" />
                         </div>
                     </div>
