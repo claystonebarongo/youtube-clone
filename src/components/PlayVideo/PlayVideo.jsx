@@ -99,6 +99,7 @@ const PlayVideo = () => {
                 </div>
                 <div className="comment">
                     <img src={user_profile} alt="" />
+
                     <div>
                         <h3>Judith Muli<span>1 day ago</span></h3>
 
@@ -106,7 +107,6 @@ const PlayVideo = () => {
                         <div className="comment-action">
                             <img src={like} alt="" />
                             <span>244</span>
-
                             <img src={dislike} alt="" />
                         </div>
                     </div>
