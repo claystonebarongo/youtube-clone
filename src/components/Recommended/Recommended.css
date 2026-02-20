@@ -6,6 +6,7 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 8px;
+    
 }
 .side-video-list img{
     flex-basis: 49%;
@@ -18,5 +19,5 @@
 
     font-size: 13px;
     margin-bottom: 5px;
-    
+
 }
