@@ -2,7 +2,7 @@
     flex-basis: 30%;
 }
 .side-video-list{
-    
+
     display: flex;
     justify-content: space-between;
     margin-bottom: 8px;
@@ -15,6 +15,7 @@
     flex-basis: 49%;
 }
 .vid-info h4{
+    
     font-size: 13px;
     margin-bottom: 5px;
 }
