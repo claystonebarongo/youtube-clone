@@ -14,8 +14,6 @@ import thumbnail8 from '../../assets/thumbnail8.png'
 
 import { API_KEY } from '../../data';
 
-
-
 const Feed = ({ category }) => {
 
 
