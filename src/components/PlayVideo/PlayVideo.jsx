@@ -20,6 +20,7 @@ const PlayVideo = ({ videoId }) => {
         <div className='play-video'>
 
             {/* <video src={video1} controls autoPlay muted></video> */}
+
             <iframe src={`https://www.youtube.com/embed/${videoId}?autoplay=1`} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <h3>Best Youtube channel to learn web development</h3>
             <div className="play-video-info">
