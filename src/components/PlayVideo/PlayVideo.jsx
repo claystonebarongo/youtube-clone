@@ -13,8 +13,8 @@ const PlayVideo = ({ videoId }) => {
 
     const [apiData, setApiData] = useState(null);
     const fetchVideoData = async () => {
-        const videoDetails_url = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=Ks-_Mh1QhMc&key=[YOUR_API_KEY] HTTP/1.1
-`
+        const videoDetails_url = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=Ks-_Mh1QhMc&key=[YOUR_API_KEY] HTTP/1.1`
+
     }
     return (
         <div className='play-video'>
