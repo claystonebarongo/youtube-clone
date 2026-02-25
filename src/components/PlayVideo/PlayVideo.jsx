@@ -17,6 +17,7 @@ const PlayVideo = ({ videoId }) => {
 
     }
     return (
+
         <div className='play-video'>
 
             {/* <video src={video1} controls autoPlay muted></video> */}
