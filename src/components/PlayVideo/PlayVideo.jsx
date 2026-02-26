@@ -48,6 +48,7 @@ const PlayVideo = ({ videoId }) => {
             </div>
 
             <div className="vid-description">
+
                 <p>Channel that makes learning Easy</p>
                 <p>Subscribe to C.B mogonchi to watch More tutorials on Web Development</p>
                 <hr />
