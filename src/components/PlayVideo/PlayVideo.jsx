@@ -53,6 +53,7 @@ const PlayVideo = ({ videoId }) => {
                 <p>Subscribe to C.B mogonchi to watch More tutorials on Web Development</p>
                 <hr />
                 <h4>130 comments</h4>
+
                 <div className="comment">
                     <img src={user_profile} alt="" />
                     <div>
