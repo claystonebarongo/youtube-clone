@@ -119,6 +119,7 @@ const PlayVideo = ({ videoId }) => {
 
                         <p>Dread It or love it ,Destiny arrives all the same</p>
                         <div className="comment-action">
+
                             <img src={like} alt="" />
                             <span>244</span>
                             <img src={dislike} alt="" />
