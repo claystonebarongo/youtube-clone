@@ -11,3 +11,5 @@ export const value_converter = (value) => {
         return value;
     }
 }
+
+console.log(API_KEY)
